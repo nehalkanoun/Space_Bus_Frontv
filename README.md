@@ -1,3 +1,5 @@
+
+![Alt text](relative%20path/to/Screen Shot 2024-05-27 at 4.51.01 PM.png?raw=true "Title")
 # Space_Bus_Front
 
 This template should help get you started developing with Vue 3 in Vite.
