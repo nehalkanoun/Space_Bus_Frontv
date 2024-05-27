@@ -1,5 +1,8 @@
 
-![Alt text](relative%20path/to/Screen Shot 2024-05-27 at 4.51.01 PM.png?raw=true "Title")
+![Screenshot 1](Screen%20Shot%202024-05-27%20at%204.51.01%20PM.png)
+![Screenshot 2](Screen%20Shot%202024-05-27%20at%204.51.23%20PM.png)
+![Screenshot 3](Screen%20Shot%202024-05-27%20at%204.52.01%20PM.png)
+
 # Space_Bus_Front
 
 This template should help get you started developing with Vue 3 in Vite.
